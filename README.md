@@ -22,7 +22,6 @@ A multi-agent pipeline (5 LLM agents, OpenAI and Claude APIs, RAG) cut article p
 ### Also built
 
 - [lyfe-img](https://github.com/santisky8/lyfe-img): Rust CLI for responsive AVIF and WebP images; pages 54% lighter on desktop, 83% on phones.
-- [jobscan](https://github.com/santisky8/jobscan): Go CLI that finds fresh remote tech roles through Greenhouse, Ashby and Lever APIs.
 - [learning-feed-metrics](https://github.com/santisky8/learning-feed-metrics): pipeline metrics on TimescaleDB.
 
 ### Stack
